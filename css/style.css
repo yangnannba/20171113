@@ -1,0 +1,447 @@
+.green-bg {
+  background-color: #e8f7f2;
+  padding: 1.4rem 0;
+}
+.logo {
+  background-color: #005aa1;
+}
+.header {
+  margin-bottom: 1.2rem;
+}
+section {
+  margin-bottom: 1.2rem;
+}
+.border-bot {
+  border-bottom: 0.1rem dashed #e5e5e5;
+  padding-bottom: 0.6rem;
+}
+.leading {
+  background-color: #ececec;
+  padding: 1rem;
+  margin-bottom: 0.6rem;
+  text-indent: 2em;
+  line-height: 1.5rem;
+}
+.nav-ul {
+  font-size: 0;
+  -webkit-text-size-adjust: none;
+  text-align: center;
+}
+.nav-ul li {
+  font-size: 1rem;
+  width: 24.4%;
+  display: inline-block;
+  margin: 0.2rem 0.25% 0;
+}
+.nav-ul li a {
+  display: block;
+  background-color: #005aa1;
+  color: #fff;
+  padding: 1rem 0;
+}
+.nav-ul li a span {
+  display: block;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+}
+.nav-ul li:nth-child(odd) a {
+  background-color: #0466b3;
+}
+h2.h2 {
+  text-align: left;
+  width: 80%;
+  margin: 0 auto 1rem;
+  border: 1px solid #d2d2d2;
+  font-size: 1.5rem;
+}
+h2.h2 span {
+  background-color: #005aa1;
+  color: #fff;
+  font-weight: normal;
+  display: inline-block;
+  width: 14%;
+  font-size: 2rem;
+  text-align: center;
+  margin-right: 0.6rem;
+  vertical-align: middle;
+}
+h2.h2 strong {
+  display: inline-block;
+  vertical-align: middle;
+}
+.leixing {
+  text-align: center;
+  font-size: 0;
+  -webkit-text-size-adjust: none;
+}
+.leixing li {
+  font-size: 1rem;
+  display: inline-block;
+  width: 31%;
+  margin: 0 0.25rem 0.5rem;
+  vertical-align: top;
+}
+.leixing li dt {
+  position: relative;
+}
+.leixing li dt p {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  line-height: 1.6rem;
+}
+.leixing li dd p {
+  background-color: #ececec;
+  height: 12rem;
+  padding: 0.4rem 0.2rem 0 0.4rem;
+  text-align: left;
+}
+.leixing li dd .btn {
+  background-color: #cf0600;
+  color: #fff;
+  font-size: 0.8rem;
+  display: block;
+  line-height: 1.6rem;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.lf-table {
+  width: 96%;
+  margin: 0 auto;
+}
+.lf-table table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #ededeb;
+}
+.lf-table table td,
+.lf-table table th {
+  border: 0.1rem solid #d2d2d2;
+  text-align: center;
+  padding: 0.6rem 0.2rem;
+}
+.lf-table table th {
+  background-color: #005aa1;
+  color: #fff;
+}
+.lf-table table .col1 {
+  background-color: #005aa1;
+  color: #fff;
+  text-align: left;
+  padding: 0.4rem 0.2rem  0.4rem 0.4rem;
+}
+.lf-table table .col4 {
+  color: #cf0600;
+  text-align: left;
+  padding: 0.4rem 0.2rem  0.4rem 0.4rem;
+}
+.xgdbt {
+  text-align: center;
+  margin-top: 1rem;
+}
+.xgdbt h3 {
+  background-color: #ededeb;
+  color: #cf0600;
+  display: inline-block;
+  padding: 0.2rem 1rem;
+  font-weight: normal;
+  margin-bottom: 1rem;
+}
+.xgdbt img {
+  width: 90%;
+  margin: 0 auto;
+}
+.zj-div {
+  width: 96%;
+  margin: 0 auto;
+  padding: 1rem 0;
+  border: 0.1rem solid #ececec;
+}
+.zj-div h2 {
+  background-color: #ce0000;
+  color: #fff;
+  font-family: zidiyi;
+  display: inline-block;
+  text-transform: uppercase;
+  line-height: 2rem;
+  border-left: 0.3rem solid #8b0000;
+  padding: 0 0.8rem;
+  margin-bottom: 0.6rem;
+  font-weight: normal;
+}
+.zj-div h3 {
+  padding-left: 1rem;
+  font-size: 1.6rem;
+  color: #434343;
+}
+.zj-div h3 span {
+  font-size: 1rem;
+  font-weight: normal;
+}
+.zj-div dl {
+  width: 96%;
+  background: #fff url(../images/xian.png);
+  box-shadow: 0.3rem 0.3rem 0.4rem #a7a7a7;
+  padding: 0.6rem 0;
+  margin: 0.6rem 0;
+}
+.zj-div dl:after {
+  content: "";
+  height: 0;
+  clear: both;
+  display: block;
+  visibility: hidden;
+}
+.zj-div dt {
+  width: 7%;
+  background-color: #005aa1;
+  color: #fff;
+  line-height: 1rem;
+  text-align: center;
+  float: left;
+  padding: 0.4rem 0;
+}
+.zj-div dd {
+  width: 93%;
+  float: right;
+}
+.zj-div dd p {
+  padding: 0.2rem 1rem 0;
+}
+.hztp {
+  width: 43%;
+  background-color: #ededeb;
+  margin-left: 1rem;
+  margin-top: 0.6rem;
+  text-align: center;
+}
+.hztp h4 {
+  background-color: #005aa1;
+  color: #fff;
+  font-weight: normal;
+  font-size: 1.4rem;
+  width: 70%;
+  display: inline-block;
+  text-align: center;
+}
+.hztp p {
+  line-height: 2rem;
+}
+.hztp ul {
+  text-align: left;
+  margin-left: 1rem;
+}
+.hztp span {
+  color: #cf0600;
+}
+.hztp .btn {
+  width: 40%;
+  display: inline-block;
+  background-color: #005aa1;
+  color: #fff;
+  -webkit-border-radius: 0.2rem;
+  -moz-border-radius: 0.2rem;
+  border-radius: 0.2rem;
+  line-height: 1.8rem;
+  margin: 0.6rem 0;
+}
+.hztp .btn:last-child {
+  background-color: #cf0600;
+}
+.zj-div-1 {
+  background: #faf9f9 url(../images/zj1.png) no-repeat right bottom;
+  background-size: auto 94%;
+}
+.zj-div-2 {
+  background: #faf9f9 url(../images/zj2.png) no-repeat right bottom;
+  background-size: auto 94%;
+}
+.zj-div-3 {
+  background: #faf9f9 url(../images/zj3.png) no-repeat right bottom;
+  background-size: auto 94%;
+}
+.zj-div-4 {
+  background: #faf9f9 url(../images/zj4.png) no-repeat right bottom;
+  background-size: auto 94%;
+}
+.hd {
+  font-size: 0;
+  -webkit-text-size-adjust: none;
+  text-align: center;
+  margin-top: 0.8rem;
+}
+.hd li {
+  font-size: 1rem;
+  width: 20.4%;
+  display: inline-block;
+  border: 0.1rem solid #ececec;
+  margin: 0 0.2rem;
+}
+.hd li.on {
+  background-color: #005aa1;
+}
+.banner-gg {
+  margin-top: 1rem;
+}
+.footer {
+  padding: 2rem 0 5rem;
+  text-align: center;
+}
+.footer img {
+  width: 68%;
+  margin: 0 auto;
+}
+.footer p {
+  line-height: 1.6em;
+  margin-top: 1rem;
+}
+.media {
+  margin-top: 0.6rem;
+}
+.media:first-child {
+  margin-top: 0;
+}
+.media,
+.media-body {
+  overflow: auto;
+  zoom: 1;
+}
+.media-body {
+  width: 10000px;
+}
+.media-object {
+  display: block;
+}
+.media-object.img-thumbnail {
+  max-width: none;
+}
+.media-right,
+.media > .pull-right {
+  padding-left: 1rem;
+  position: relative;
+}
+.media-right:after,
+.media > .pull-right:after {
+  content: "";
+  width: 0.8rem;
+  height: 1.2rem;
+  background: url(../images/zhi2-title.png) no-repeat;
+  background-size: 100% 100%;
+  position: absolute;
+  top: 2rem;
+  left: -1px;
+  z-index: 10;
+}
+.media-left,
+.media > .pull-left {
+  padding-right: 1rem;
+  position: relative;
+}
+.media-left:after,
+.media > .pull-left:after {
+  content: "";
+  width: 0.8rem;
+  height: 1.2rem;
+  background: url(../images/zhi-title.png) no-repeat;
+  background-size: 100% 100%;
+  position: absolute;
+  top: 2rem;
+  right: -1px;
+  z-index: 10;
+}
+.media-left,
+.media-right,
+.media-body {
+  display: table-cell;
+  vertical-align: top;
+}
+.media-left,
+.media-right {
+  width: 18%;
+}
+.media-middle {
+  vertical-align: middle;
+}
+.media-bottom {
+  vertical-align: bottom;
+}
+.media-heading {
+  margin-top: 0;
+  margin-bottom: 5px;
+  color: #9a9a9a;
+  font-weight: normal;
+  font-size: 0.8rem;
+}
+.media-heading span {
+  float: right;
+}
+.dj-btn {
+  margin-top: 10px;
+  color: #9a9a9a;
+  font-size: 0.8rem;
+}
+.dj-btn a {
+  float: right;
+  background-color: #cf0600;
+  color: #fff;
+  line-height: 1.6rem;
+  display: inline-block;
+  padding: 0 0.4rem;
+  width: 46%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  text-align: center;
+}
+.media-list {
+  padding-left: 0;
+  list-style: none;
+  width: 96%;
+  margin: 0 auto;
+}
+.media-body {
+  border: 1px solid #d2d2d2;
+  padding: 0.8rem;
+}
+.last-media-body {
+  border: 0;
+  padding: 0;
+}
+.last-media-body textarea {
+  border: 1px solid #d2d2d2;
+  padding: 0.8rem 2%;
+  width: 100%;
+  height: 100%;
+  font-size: 1rem;
+  -webkit-box-sizing: border-box;
+  -moz--box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.last-media-body textarea:focus {
+  outline: 0;
+}
+.last-media-body button {
+  display: inline-block;
+  font-size: 1rem;
+  -webkit-border-radius: 0.2rem;
+  -moz-border-radius: 0.2rem;
+  border-radius: 0.2rem;
+  line-height: 1.8rem;
+  padding: 0 1rem;
+  margin-top: 0.6rem;
+  margin-right: 0.6rem;
+}
+.last-media-body button.submit {
+  background-color: #005aa1;
+  color: #fff;
+}
+.last-media-body button.pic {
+  background-color: #cf0600;
+  color: #fff;
+}
